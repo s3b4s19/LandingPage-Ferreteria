@@ -1,0 +1,9 @@
+# Documentación interna de trabajo
+MEMORY.md
+AGENTS.md
+
+# Sistema y editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
