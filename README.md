@@ -4,6 +4,16 @@ Landing page responsive para una ferretería industrial. Presenta promociones de
 
 Proyecto de portafolio. La marca, los productos, los precios y los datos de contacto son ficticios.
 
+## Capturas
+
+### Escritorio
+
+![Vista de escritorio de la landing page](docs/screenshots/desktop.jpg)
+
+### Móvil
+
+![Vista móvil de la landing page](docs/screenshots/mobile.jpg)
+
 ## Características
 
 - Diseño mobile-first con HTML5 semántico y CSS3 nativo.
@@ -28,6 +38,8 @@ Proyecto de portafolio. La marca, los productos, los precios y los datos de cont
 ├── index.html
 ├── css
 │   └── style.css
+├── docs
+│   └── screenshots
 ├── js
 │   └── main.js
 └── README.md
